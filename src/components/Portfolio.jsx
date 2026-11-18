@@ -103,6 +103,7 @@ export default function Portfolio() {
           {tab === 0 && <Projects />}{tab === 1 && <Certificates />}{tab === 2 && <TechStack />}
         </div>
       </div>
+
     </section>
   )
 }
